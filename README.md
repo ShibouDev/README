@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img alt='Telegram' src='https://img.shields.io/badge/telegram-fff.svg?&style=for-the-badge&logo=telegram&logoColor=white' />](https://t.me/sadandcry)
+[<img alt='Telegram' src='https://img.shields.io/badge/telegram-000.svg?&style=for-the-badge&logo=telegram&logoColor=white' />](https://t.me/sadandcry)
 
 
 ### 💻 Tech Stack:
