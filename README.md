@@ -16,6 +16,7 @@
 <img alt="scss" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="nestjs" src="https://img.shields.io/badge/nestjs-ed2945.svg?&style=for-the-badge&logo=nestjs&logoColor=fff" />&nbsp;
 <img alt="prisma" src="https://img.shields.io/badge/prisma-000.svg?&style=for-the-badge&logo=prisma&logoColor=fff" />&nbsp;
+<img alt="docker" src="https://img.shields.io/badge/docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 
 
 ### 🛠 Tools:
