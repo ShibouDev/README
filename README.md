@@ -4,7 +4,6 @@
 
 [<img alt='Telegram' src='https://img.shields.io/badge/telegram-000.svg?&style=for-the-badge&logo=telegram&logoColor=white' />](https://t.me/sadandcry)
 
-
 ### 💻 Tech Stack:
 
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
@@ -20,7 +19,6 @@
 <img alt="react" src="https://img.shields.io/badge/react-087ea4.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 
-
 ### 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
@@ -29,3 +27,5 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+<img src="./assets/finnAndJakePixelArt.gif" width="640px" height="360px"/>
