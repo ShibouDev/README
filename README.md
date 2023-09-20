@@ -28,4 +28,4 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
-<img src="./assets/gochiusa.gif" width="846px" height="365px" style="object-fit: cover"/>
+<img src="./assets/deku.gif" width="846px" height="365px"/>
